@@ -22,7 +22,7 @@ To experience the adrenaline-pumping excitement of Hit-Ball, simply join a game 
 We're constantly working to improve Hit-Ball and provide the best gaming experience for our players. If you have any feedback, suggestions, or encounter any issues while playing, feel free to reach out to us. Your input is invaluable in shaping the future of Hit-Ball!
 
 ## Open Source?
-Yes, you heard it right! I am an open-source Developer dedicated to introducing coding to new players.
+Yes, you heard it right! I am an open-source Developer dedicated to introducing coding to new players (NO RBX FILE PROVIDED).
 
 ## Credits
 Hit-Ball is brought to you by Mana, a passionate Developer dedicated to creating immersive gaming experiences. Thank you for joining us on this exciting journey!
